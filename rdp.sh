@@ -34,7 +34,7 @@ services:
     container_name: windows
     environment:
       VERSION: "11"
-      USERNAME: "MASTER"
+      USERNAME: "SHIN"
       PASSWORD: "admin@123"
       RAM_SIZE: "7G"
       CPU_CORES: "4"
@@ -100,7 +100,7 @@ else
 fi
 
 echo
-echo "🔑 Username: MASTER"
+echo "🔑 Username: SHIN"
 echo "🔒 Password: admin@123"
 echo
 echo "Untuk melihat status container:"
